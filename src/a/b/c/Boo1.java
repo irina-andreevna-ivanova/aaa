@@ -8,5 +8,7 @@ package a.b.c;
  */
 public class Boo1 {
 
+    int a1;
+
 
 }
